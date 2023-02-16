@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0</TargetFramework>
+	  <Nullable>enable</Nullable>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Authors>Gleason Employee</Authors>
+	  <Company>Gleason Corporation</Company>
+	  <Product>Gems.Enterprise.WebServer.ControlBoxPlayaround</Product>
+	  <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+	  <Copyright>The Gleason Works</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Gems.WebApps" Version="1.0.33" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gems.Enterprise.WebApp.FirstApplication\Gems.Enterprise.WebApp.FirstApplication.csproj" />
+  </ItemGroup>
+
+</Project>

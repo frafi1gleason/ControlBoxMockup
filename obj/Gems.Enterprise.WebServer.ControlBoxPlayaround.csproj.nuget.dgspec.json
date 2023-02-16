@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebServer.ControlBoxPlayaround\\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebApp.FirstApplication\\Gems.Enterprise.WebApp.FirstApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebApp.FirstApplication\\Gems.Enterprise.WebApp.FirstApplication.csproj",
+        "projectName": "Gems.Enterprise.WebApp.FirstApplication",
+        "projectPath": "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebApp.FirstApplication\\Gems.Enterprise.WebApp.FirstApplication.csproj",
+        "packagesPath": "C:\\Users\\frafieuddin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebApp.FirstApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frafieuddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Gems.WebApps": {
+              "target": "Package",
+              "version": "[1.0.33, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebServer.ControlBoxPlayaround\\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebServer.ControlBoxPlayaround\\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj",
+        "projectName": "Gems.Enterprise.WebServer.ControlBoxPlayaround",
+        "projectPath": "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebServer.ControlBoxPlayaround\\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj",
+        "packagesPath": "C:\\Users\\frafieuddin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebServer.ControlBoxPlayaround\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frafieuddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebApp.FirstApplication\\Gems.Enterprise.WebApp.FirstApplication.csproj": {
+                "projectPath": "C:\\Users\\frafieuddin\\source\\repos\\Gems.Enterprise.WebApp.FirstApplication\\Gems.Enterprise.WebApp.FirstApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Gems.WebApps": {
+              "target": "Package",
+              "version": "[1.0.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

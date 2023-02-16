@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Gems.Enterprise.WebServer.ControlBoxPlayaround.props" />
+</Project>

@@ -1,0 +1,13 @@
+﻿<Router AppAssembly="@typeof(App).Assembly"
+        AdditionalAssemblies=@BlazorResources.RoutedAssemblies>
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(EnterpriseMainLayout)" />
+    </Found>
+    <NotFound>
+        <PageTitle>Not found</PageTitle>
+        <LayoutView Layout="@typeof(EnterpriseMainLayout)">
+            <p role="alert">Sorry, there's nothing at this address.</p>
+        </LayoutView>
+    </NotFound>
+</Router>
+

@@ -1,0 +1,14 @@
+{
+  "WebApps": {
+    "Modules": [
+      {
+        "AssemblyNameOrPath": "Gems.WebApps",
+        "Routed": true
+      },
+      {
+        "AssemblyNameOrPath": "Gems.Enterprise.WebApp.FirstApplication",
+        "Routed": true
+      }
+    ]
+  }
+}
