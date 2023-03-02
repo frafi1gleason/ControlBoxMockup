@@ -245,6 +245,14 @@
           }
         }
       },
+      "GEMS.GAGE.Models/1.0.2": {
+        "runtime": {
+          "lib/net6.0/GEMS.GAGE.Models.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
       "Gems.WebApps/1.0.33": {
         "dependencies": {
           "Blazor.Markdown": "1.0.0",
@@ -1345,6 +1353,7 @@
       },
       "Gems.Enterprise.WebApp.FirstApplication/1.0.0": {
         "dependencies": {
+          "GEMS.GAGE.Models": "1.0.2",
           "Gems.WebApps": "1.0.33",
           "Microsoft.AspNetCore.Components.Web": "6.0.12",
           "Microsoft.Extensions.FileProviders.Embedded": "7.0.2"
@@ -1486,6 +1495,13 @@
       "sha512": "sha512-0D9xA+cWNwczXDFekNYjM9G13tEtrvwtwEa3j++H49n6VCiTwRD2qOMSPtok5wnrBeSIxt9I+VZdF7HK4qSaTg==",
       "path": "gems.enterprise.guptime.client/3.0.0-exp.151",
       "hashPath": "gems.enterprise.guptime.client.3.0.0-exp.151.nupkg.sha512"
+    },
+    "GEMS.GAGE.Models/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l+VQ9AEyu5Itdku77FgKyXKRE1LsrrbUbL/b5e92gb7qZNXbzn0cxoFcTFQdcRVDof4mXwzZO5mh4fR3yAppfA==",
+      "path": "gems.gage.models/1.0.2",
+      "hashPath": "gems.gage.models.1.0.2.nupkg.sha512"
     },
     "Gems.WebApps/1.0.33": {
       "type": "package",

@@ -23,7 +23,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
+          "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {},
+          "https://www.myget.org/F/gems-shared/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -41,6 +42,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "GEMS.GAGE.Models": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
             "Gems.WebApps": {
               "target": "Package",
               "version": "[1.0.33, )"
@@ -93,7 +98,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
+          "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {},
+          "https://www.myget.org/F/gems-shared/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

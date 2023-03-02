@@ -308,6 +308,15 @@
           }
         }
       },
+      "GEMS.GAGE.Models/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/GEMS.GAGE.Models.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/GEMS.GAGE.Models.dll": {}
+        }
+      },
       "Gems.WebApps/1.0.33": {
         "type": "package",
         "dependencies": {
@@ -2372,6 +2381,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "GEMS.GAGE.Models": "1.0.2",
           "Gems.WebApps": "1.0.33",
           "Microsoft.AspNetCore.Components.Web": "6.0.12",
           "Microsoft.Extensions.FileProviders.Embedded": "7.0.2"
@@ -2695,6 +2705,17 @@
         "lib/netstandard2.1/Gems.Enterprise.gUptime.Client.dll",
         "lib/netstandard2.1/Gems.Enterprise.gUptime.Client.xml",
         "package-icon.png"
+      ]
+    },
+    "GEMS.GAGE.Models/1.0.2": {
+      "sha512": "l+VQ9AEyu5Itdku77FgKyXKRE1LsrrbUbL/b5e92gb7qZNXbzn0cxoFcTFQdcRVDof4mXwzZO5mh4fR3yAppfA==",
+      "type": "package",
+      "path": "gems.gage.models/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        "gems.gage.models.1.0.2.nupkg.sha512",
+        "gems.gage.models.nuspec",
+        "lib/net6.0/GEMS.GAGE.Models.dll"
       ]
     },
     "Gems.WebApps/1.0.33": {
@@ -7326,7 +7347,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
+        "https://www.myget.org/F/g4dot0-internal/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {},
+        "https://www.myget.org/F/gems-shared/auth/4c771cfb-e414-4126-bcb8-0f2da1916700/api/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
