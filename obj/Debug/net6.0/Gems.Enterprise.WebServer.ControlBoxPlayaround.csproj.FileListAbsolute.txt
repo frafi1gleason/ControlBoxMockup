@@ -1,3 +1,11 @@
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj.AssemblyReference.cache
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.AssemblyInfoInputs.cache
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.AssemblyInfo.cs
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj.CoreCompileInputs.cache
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.RazorAssemblyInfo.cache
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.RazorAssemblyInfo.cs
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Gems.Enterprise.WebApp.FirstApplication.staticwebassets.runtime.json
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\appsettings.json
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\plugins.json
@@ -25,6 +33,7 @@ C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Gems.Enterprise.gProduction.Client.dll
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Gems.Enterprise.gTools.Client.dll
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Gems.Enterprise.gUptime.Client.dll
+C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\GEMS.GAGE.Models.dll
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Gems.WebApps.dll
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\HtmlSanitizer.dll
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Markdig.dll
@@ -71,14 +80,6 @@ C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Gems.Enterprise.WebApp.FirstApplication.dll
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\Gems.Enterprise.WebApp.FirstApplication.pdb
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj.AssemblyReference.cache
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.AssemblyInfoInputs.cache
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.AssemblyInfo.cs
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.csproj.CoreCompileInputs.cache
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.RazorAssemblyInfo.cache
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.RazorAssemblyInfo.cs
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\staticwebassets\msbuild.Gems.Enterprise.WebServer.ControlBoxPlayaround.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\staticwebassets\msbuild.build.Gems.Enterprise.WebServer.ControlBoxPlayaround.props
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gems.Enterprise.WebServer.ControlBoxPlayaround.props
@@ -93,4 +94,3 @@ C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.pdb
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\Gems.Enterprise.WebServer.ControlBoxPlayaround.genruntimeconfig.cache
 C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\obj\Debug\net6.0\ref\Gems.Enterprise.WebServer.ControlBoxPlayaround.dll
-C:\Users\frafieuddin\source\repos\Gems.Enterprise.WebServer.ControlBoxPlayaround\bin\Debug\net6.0\GEMS.GAGE.Models.dll
